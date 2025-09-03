@@ -1,0 +1,14 @@
+{
+  "name": "frontend-framework-vietnam",
+  "version": "1.0.0",
+  "description": "Bộ khung phát triển frontend dành cho thị trường Việt Nam.",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "jest"
+  },
+  "keywords": ["frontend", "Vietnam", "framework"],
+  "author": "Bạn",
+  "license": "MIT",
+  "dependencies": {}
+}
