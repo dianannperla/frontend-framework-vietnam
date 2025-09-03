@@ -10,5 +10,9 @@
   "keywords": ["frontend", "Vietnam", "framework"],
   "author": "Bạn",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/frontend-framework-vietnam.git"
+  },
   "dependencies": {}
 }
